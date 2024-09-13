@@ -1,12 +1,12 @@
 # AI-Job-Market
 
-The Main objective of this Project is to Analyse how the Artificial Intelligence impact the Employee Jobs in different Industries, Job Roles, Salaries etc. with various KPI's using PowerBI Dashboards.
+The Main objective of this Project is to Analyze how the Artificial Intelligence impact the Employee Jobs in different Industries, Job Roles, Salaries etc. with various KPI's using Power BI Dashboards.
 
-Tools Used : Microsoft Excel, Python, Microsoft PowerBI
+Tools Used : Microsoft Excel, Python, Microsoft Power BI
 
 Steps Included :
-1. Data Understanding : Understand each Column of the Excel File make sure that every column detail is well known before analysing the Data.
-2. Data Cleaning      : Now Clean the data using Python library Numpy to modify the values or columns like
+1. Data Understanding : Understand each Column of the Excel File make sure that every column detail is well known before analyzing the Data.
+2. Data Cleaning      : Now Clean the data using Python library Pandas to modify the values or columns like
                                           a. Finding Null Values and Replacing them
                                           b. Verifying Whether Column Datatype is approprite or not.
                                           c. Replace missing data or inappropriate date in all the columns.
